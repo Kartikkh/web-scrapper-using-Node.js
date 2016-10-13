@@ -1,0 +1,16 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "imdb scrapper ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartik and Jugal",
+  "license": "ISC",
+  "dependencies": {
+	  "request"    : "latest",
+    "cheerio"    : "latest",
+    "express": "^4.13.4"
+  }
+}
